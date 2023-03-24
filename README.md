@@ -1,6 +1,6 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hi!%20I'm%20Jeongsu&fontSize=40&animation=twinkling)
 
-### Hi there 👋
+<!--### Hi there 👋-->
 <!--
 **pparkjs/pparkjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
