@@ -26,8 +26,9 @@
 </p>
  
  <p>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=white"> 
+  <img src="https://img.shields.io/badge/OracleDB-FFDC3C?style=flat-square&logo=Oracle&logoColor=white">
  </p>
  
  #
