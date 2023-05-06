@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/pparkjs"/>
 </a>
 <a href="https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4">
-  <img src="https://img.shields.io/badge/Notion-78EFAD?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4"/>
+  <img src="https://img.shields.io/badge/Notion-82F9B7?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4"/>
 </a>
 <!--### Hi there 👋-->
 <!--
