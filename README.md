@@ -6,10 +6,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/pparkjs"/>
 </a>
 <a href="https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4">
-  <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=&link=https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4"/>
+  <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4"/>
 </a>
 <a href="https://www.instagram.com/jj__ssu/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=&link=https://www.instagram.com/jj__ssu/"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jj__ssu/"/>
 </a>  
   </p>
 <p>Hi There! I'm a backEnd developer.</p>
