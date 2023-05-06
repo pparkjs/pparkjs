@@ -7,6 +7,8 @@
 <a href="https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4">
   <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=&link=https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4"/>
 </a>
+<p>Hi There! I'm a backEnd developer.</p>
+<p>I'm a persistent person, who study hard day and night for be a good developer.✨</p>
 <!--### Hi there 👋-->
 <!--
 **pparkjs/pparkjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
