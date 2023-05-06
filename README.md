@@ -8,8 +8,8 @@
 <a href="https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4">
   <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=&link=https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4"/>
 </a>
-<a href="qkrwjdtn963@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=&link=qkrwjdtn963@gmail.com"/>
+<a href="https://www.instagram.com/jj__ssu/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=&link=https://www.instagram.com/jj__ssu/"/>
 </a>  
   </p>
 <p>Hi There! I'm a backEnd developer.</p>
