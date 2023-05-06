@@ -1,9 +1,9 @@
 <!--![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hi!%20I'm%20Jeongsu&fontSize=40&animation=twinkling)-->
 <div align="center">
 <h3>🍀 Me 🍀</h3>
-  <a href="https://github.com/pparkjs">
-<img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  </a>
+<a href="https://github.com/pparkjs">
+  <img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/pparkjs"/>
+</a>
 
 <!--### Hi there 👋-->
 <!--
