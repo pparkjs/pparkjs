@@ -27,7 +27,7 @@
  
  <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white">
  </p>
  
 <!--### Hi there 👋-->
