@@ -14,8 +14,11 @@
   </p>
 <p>Hi There! I'm a backEnd developer.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.✨</p>
-
-<h3>🔖 TIL(그날그날 공부한 것을 정리해 놓았습니다. 🔖</h3>
+ 
+ #
+ 
+<h3>🔖 TIL 🔖</h3>
+<p>그날그날 공부한 것을 노션에 정리해 놓았습니다.</p>
 <a href="https://www.notion.so/a2e4eb1d2b2641b1b6d29c5d0ea58e8d?pvs=4">
   <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=white&link=https://silicon-vegetable-8cc.notion.site/TIL-53c1ca01f9a340efb59fc0b356dc0780?pvs=4"/>
 </a>
