@@ -32,6 +32,7 @@
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white">
  <img src="https://img.shields.io/badge/JSP-FFDC3C?style=flat-square&logo=JSP&logoColor=white"> 
+ <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=JPA&logoColor=white">
 </p>
  
  <p>
