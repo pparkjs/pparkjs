@@ -10,7 +10,8 @@
 </a>
 <a href="https://www.instagram.com/jj__ssu/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jj__ssu/"/>
-</a>  
+</a>
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white&link=https://github.com/pparkjs"/>
   </p>
 <p>Hi There! I'm a backEnd developer.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.✨</p>
