@@ -11,11 +11,14 @@
 <!-- <a href="https://www.instagram.com/jj__ssu/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jj__ssu/"/>
 </a> -->
- <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white&link=https://github.com/pparkjs"/>
+ <a href="https://velog.io/@pparkdev/posts">
+  <img src="https://img.shields.io/badge/velog-181717?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@pparkdev/posts"/>
+</a>
+ 
   </p>
 <p>Hi There! I'm a backEnd developer.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.✨</p>
- 
+
  #
  
 <h3>🔖 TIL 🔖</h3>
@@ -34,6 +37,7 @@
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white">
 <!--  <img src="https://img.shields.io/badge/JSP-FFDC3C?style=flat-square&logo=JSP&logoColor=white">  -->
 <!-- <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white"> -->
+<img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white&link=https://github.com/pparkjs"/>
 </p>
  <p>
 
