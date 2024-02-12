@@ -35,13 +35,14 @@
 <!--  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white">
+ <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white">
+ <img src="https://img.shields.io/badge/AWS-F05032?style=flat-square&logo=AWS&logoColor=white">
 <!--  <img src="https://img.shields.io/badge/JSP-FFDC3C?style=flat-square&logo=JSP&logoColor=white">  -->
 <!-- <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white"> -->
 <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white&link=https://github.com/pparkjs"/>
 </p>
  <p>
 
-  <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
@@ -49,7 +50,6 @@
  
  #
  <h3>📖 Studying~ 📖</h3>
- <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white">
  <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=Typescript&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white">
