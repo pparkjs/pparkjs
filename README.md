@@ -35,6 +35,7 @@
 <!--  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white">
+ <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat-square&logo=Kotlin&logoColor=white">
  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white">
  <img src="https://img.shields.io/badge/AWS-F05032?style=flat-square&logo=AWS&logoColor=white">
 <!--  <img src="https://img.shields.io/badge/JSP-FFDC3C?style=flat-square&logo=JSP&logoColor=white">  -->
@@ -53,7 +54,7 @@
  <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=Typescript&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white">
- <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat-square&logo=Kotlin&logoColor=white">
+
 </p>
 
  
