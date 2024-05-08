@@ -54,7 +54,10 @@
  <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=Typescript&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white">
-
+ <br/>
+ <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=flat-square&logo=elasticsearch&logoColor=white" />
+ <img src="https://img.shields.io/badge/logstash-%23005571.svg?&style=flat-square&logo=logstash&logoColor=white" />
+ <img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=flat-square&logo=kibana&logoColor=white" />
 </p>
 
  
