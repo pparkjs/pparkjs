@@ -38,6 +38,7 @@
  <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat-square&logo=Kotlin&logoColor=white">
  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white">
  <img src="https://img.shields.io/badge/AWS-F05032?style=flat-square&logo=AWS&logoColor=white">
+ <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white">
 <!--  <img src="https://img.shields.io/badge/JSP-FFDC3C?style=flat-square&logo=JSP&logoColor=white">  -->
 <!-- <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white"> -->
 <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white&link=https://github.com/pparkjs"/>
@@ -53,7 +54,6 @@
  <h3>📖 Studying~ 📖</h3>
  <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=Typescript&logoColor=white">
- <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white">
  <br/>
  <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=flat-square&logo=elasticsearch&logoColor=white" />
  <img src="https://img.shields.io/badge/logstash-%23005571.svg?&style=flat-square&logo=logstash&logoColor=white" />
