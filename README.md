@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/pparkjs"/>
 </a>
 <a href="https://www.notion.so/a2e4eb1d2b2641b1b6d29c5d0ea58e8d?pvs=4">
-  <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/35cde545b8e04ce68e419cce5b546238?pvs=4"/>
+  <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=white&link=https://silicon-vegetable-8cc.notion.site/2b38229574be807ca0e2d914ad3c7247?source=copy_link"/>
 </a>
 <!-- <a href="https://www.instagram.com/jj__ssu/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jj__ssu/"/>
