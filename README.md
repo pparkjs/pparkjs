@@ -5,7 +5,7 @@
 <p><a href="https://github.com/pparkjs">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/pparkjs"/>
 </a>
-<a href="https://www.notion.so/a2e4eb1d2b2641b1b6d29c5d0ea58e8d?pvs=4">
+<a href="https://silicon-vegetable-8cc.notion.site/2b38229574be807ca0e2d914ad3c7247?source=copy_link">
   <img src="https://img.shields.io/badge/Notion-46BD7B?style=flat-square&logo=Notion&logoColor=white&link=https://silicon-vegetable-8cc.notion.site/2b38229574be807ca0e2d914ad3c7247?source=copy_link"/>
 </a>
 <!-- <a href="https://www.instagram.com/jj__ssu/">
@@ -14,7 +14,7 @@
  <a href="https://velog.io/@pparkdev/posts">
   <img src="https://img.shields.io/badge/velog-181717?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@pparkdev/posts"/>
 </a>
- 
+
   </p>
 <p>Hi There! I'm a backEnd developer.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.✨</p>
