@@ -56,6 +56,7 @@
  <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=flat-square&logo=elasticsearch&logoColor=white" />
  <img src="https://img.shields.io/badge/logstash-%23005571.svg?&style=flat-square&logo=logstash&logoColor=white" />
  <img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=flat-square&logo=kibana&logoColor=white" />
+ <img src="https://img.shields.io/badge/kafka-%23005571.svg?&style=flat-square&logo=kafka&logoColor=white" />
 </p>
 
  
